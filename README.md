@@ -1,5 +1,5 @@
 # PIC-10B
-Projects that I worked in PIC 10B (Intermediate C++ Programming)
+Projects that I worked on for PIC 10B (Intermediate C++ Programming)
 
 ### Cache
 - Cache class that intends to store data and memorizes the highest and lowest data stored.
