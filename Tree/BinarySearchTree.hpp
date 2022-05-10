@@ -80,6 +80,10 @@ namespace pic10b {
          */
         iterator end() const;
         
+        /**
+        Sets iterator the last element of the tree
+        @return the iterator at last element
+        */
         iterator last() const;
         
         /**
